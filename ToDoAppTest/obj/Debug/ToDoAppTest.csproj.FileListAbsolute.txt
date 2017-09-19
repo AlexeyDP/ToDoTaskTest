@@ -1,0 +1,9 @@
+C:\Users\Obozhko\source\repos\ToDoAppTest\ToDoAppTest\bin\Debug\ToDoAppTest.dll
+C:\Users\Obozhko\source\repos\ToDoAppTest\ToDoAppTest\bin\Debug\ToDoAppTest.pdb
+C:\Users\Obozhko\source\repos\ToDoAppTest\ToDoAppTest\bin\Debug\WebDriver.dll
+C:\Users\Obozhko\source\repos\ToDoAppTest\ToDoAppTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Obozhko\source\repos\ToDoAppTest\ToDoAppTest\bin\Debug\WebDriver.xml
+C:\Users\Obozhko\source\repos\ToDoAppTest\ToDoAppTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Obozhko\source\repos\ToDoAppTest\ToDoAppTest\obj\Debug\ToDoAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Obozhko\source\repos\ToDoAppTest\ToDoAppTest\obj\Debug\ToDoAppTest.dll
+C:\Users\Obozhko\source\repos\ToDoAppTest\ToDoAppTest\obj\Debug\ToDoAppTest.pdb
